@@ -1,0 +1,2 @@
+str = "TestTestTest"
+puts str
