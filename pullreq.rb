@@ -1,4 +1,4 @@
 str = "TestTestTest"
 str1 = "Test"
 puts str
-puts str1
+print str1
